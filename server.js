@@ -17,11 +17,20 @@ require("dotenv").config({ path: "./config/.env" });
 // Passport config
 require("./config/passport")(passport);
 
+app.use(cors(
+  {
+    origin: [],
+    methods: ["POST", "GET"],
+    credentials: true
+  }
+))
+
 //Connect To Database
 connectDB();
 
 //Using EJS for views
 app.set("view engine", "ejs");
+
 
 //Static Folder
 app.use(express.static("public"));
