@@ -1,6 +1,6 @@
 # ..blog
 minimal photo blogging app featuring multiple users, auth, photo upload / storage, mongodb database, chronological feed, minimal design, responsive.
-**Link to project:** [..blog](https://blog-q1a5.onrender.com/) (takes 30 - 45 seconds to start up the server on render's free tier)
+**Link to project:** [..blog](https://blog-q1a5.onrender.com/) (can take 30 - 45 seconds to start up the server on render's free tier)
 
 ![Screenshot 2024-11-15 154939](https://github.com/user-attachments/assets/757a1506-2f48-4c31-86eb-35f75523d3fb)
 ![Screenshot 2024-11-15 154924](https://github.com/user-attachments/assets/aeb3bdc5-2663-4c64-951c-5c7858f1c085)
