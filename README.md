@@ -1,6 +1,6 @@
 # ..blog
 minimal photo blogging app featuring multiple users, auth, photo upload / storage, mongodb database, chronological feed, minimal design, responsive.
-**Link to project:** [..blog](https://blog-q1a5.onrender.com/)
+**Link to project:** [..blog](https://blog-q1a5.onrender.com/) (takes 30 - 45 seconds to start up the server on render's free tier)
 
 ![Screenshot 2024-11-15 154939](https://github.com/user-attachments/assets/757a1506-2f48-4c31-86eb-35f75523d3fb)
 ![Screenshot 2024-11-15 154924](https://github.com/user-attachments/assets/aeb3bdc5-2663-4c64-951c-5c7858f1c085)
@@ -8,7 +8,7 @@ minimal photo blogging app featuring multiple users, auth, photo upload / storag
 ## How It's Made:
 Full stack social media protoype application made using MVC architecture. 
 
-HTML, CSS, JavaScript, EJS, Node.js, Express, cloudinary, mongoDb, multer, passport.Js, bCrypt, bootstrap
+HTML, CSS, JavaScript, EJS, Node.js, Express, cloudinary, mongoDb, multer, passport.Js, bCrypt, bootstrap, deployed on render
 
 ## Fork project:
 
