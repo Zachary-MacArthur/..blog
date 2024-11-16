@@ -6,7 +6,7 @@ minimal photo blogging app featuring multiple users, auth, photo upload / storag
 ![Screenshot 2024-11-15 154924](https://github.com/user-attachments/assets/aeb3bdc5-2663-4c64-951c-5c7858f1c085)
 
 ## How It's Made:
-Full stack social media protoype application made using express and MVC architecture. The frontend is render using EJS templating
+Full stack social media protoype application made using express and MVC architecture. The frontend is rendered using EJS templating
 
 HTML, CSS, JavaScript, EJS, Node.js, Express, cloudinary, mongoDb, multer, passport.Js, bCrypt, bootstrap, deployed on render
 
